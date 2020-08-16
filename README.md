@@ -8,3 +8,5 @@ steps : 1)Defining image descriptor
         2)Indexing the dataset
         3)Defining similarity metric
         4)Searching
+
+Procedure : open cmd.PNG and output.PNG
